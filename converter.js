@@ -2,7 +2,10 @@
 const xlsx = require("xlsx");
 const fs = require("fs");
 
-const wb = xlsx.readFile('./Pasta1.xlsx', {cellDates:true})
+const filess = require('./uploads/77b3391c5ff094decf39d7a291683f5b')
+console.log(filess);
+
+const wb = xlsx.readFile('./uploads/77b3391c5ff094decf39d7a291683f5b', {cellDates:true})
 console.log(wb.SheetNames)
 
 const ws = wb.Sheets['Plan1'];

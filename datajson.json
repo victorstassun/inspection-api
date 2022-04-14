@@ -1,32 +1,20 @@
 [
   {
-    "DIAS": "SEGUNDA-FEIRA",
-    "CT": 1201558,
-    "SECAO": "Bob B-ISO 1° LADO-L4"
+    "A": "S",
+    "A_1": 1,
+    "A_2": 1,
+    "A_3": 1
   },
   {
-    "DIAS": "SEGUNDA-FEIRA",
-    "CT": 132131,
-    "SECAO": "Bob B-ISO 1° LADO-L3"
+    "A": "C",
+    "A_1": 2,
+    "A_2": 2,
+    "A_3": 2
   },
   {
-    "DIAS": "SEGUNDA-FEIRA",
-    "CT": 3142143,
-    "SECAO": "Bob B-ISO 1° LADO-L2"
-  },
-  {
-    "DIAS": "TERÇA-FEIRA",
-    "CT": 1201558,
-    "SECAO": "Bob B-ISO 1° LADO-L4"
-  },
-  {
-    "DIAS": "TERÇA-FEIRA",
-    "CT": 132131,
-    "SECAO": "Bob B-ISO 1° LADO-L3"
-  },
-  {
-    "DIAS": "QUARTA-FEIRA",
-    "CT": 3142143,
-    "SECAO": "Bob B-ISO 1° LADO-L2"
+    "A": "V",
+    "A_1": 3,
+    "A_2": 3,
+    "A_3": 3
   }
 ]
